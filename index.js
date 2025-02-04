@@ -15,7 +15,7 @@ app.use(
 app.get('/', (req, res) => {
   return res.status(200).json({
     status: 'success',
-    author: 'Gufronnaka Arif Wildan',
+    author: 'Fulan',
     github: 'gufronnakaaw',
     instagram: 'gufronnakaaw',
   });
